@@ -1,0 +1,58 @@
+{
+    "websites": [
+        {
+            "name": "CNN",
+            "logo": "https://www.cnn.com/logo.png",
+            "articles": [
+                {
+                    "name": "Latest News",
+                    "image": "https://www.cnn.com/image1.jpg",
+                    "title": "Breaking News: Major Storm to Hit East Coast",
+                    "content": "A major winter storm is expected to hit the East Coast this weekend..."
+                },
+                {
+                    "name": "Politics",
+                    "image": "https://www.cnn.com/image2.jpg",
+                    "title": "Biden to Unveil $1.9 Trillion Infrastructure Plan",
+                    "content": "President Biden is set to unveil a $1.9 trillion infrastructure plan that includes..."
+                }
+            ]
+        },
+        {
+            "name": "BBC",
+            "logo": "https://www.bbc.com/logo.png",
+            "articles": [
+                {
+                    "name": "World News",
+                    "image": "https://www.bbc.com/image1.jpg",
+                    "title": "US to Impose Sanctions on Russia Over Cyber Attack",
+                    "content": "The United States is set to impose sanctions on Russia over a recent cyber attack..."
+                },
+                {
+                    "name": "Business",
+                    "image": "https://www.bbc.com/image2.jpg",
+                    "title": "Amazon Reports Record Sales in 2020",
+                    "content": "Amazon reported record sales in 2020, driven by increased demand for online shopping..."
+                }
+            ]
+        },
+        {
+            "name": "The New York Times",
+            "logo": "https://www.nytimes.com/logo.png",
+            "articles": [
+                {
+                    "name": "Politics",
+                    "image": "https://www.nytimes.com/image1.jpg",
+                    "title": "Biden Signs $1.9 Trillion Covid Relief Package into Law",
+                    "content": "President Biden signed a $1.9 trillion Covid relief package into law on Thursday..."
+                },
+                {
+                    "name": "Technology",
+                    "image": "https://www.nytimes.com/image2.jpg",
+                    "title": "Tesla Announces New Electric Car Model",
+                    "content": "Tesla announced a new electric car model that promises to be more affordable than previous models..."
+                }
+            ]
+        }
+    ]
+}
